@@ -10,5 +10,5 @@ Link to the same are
   2. #### Easy as pie 
 
 2. ### Reversing
-  1. ### Cracker Barrel
-  2. ### Mr. Game and Watch
+  1. #### Cracker Barrel
+  2. #### Mr. Game and Watch
